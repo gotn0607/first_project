@@ -1,0 +1,25 @@
+html>head>title^body>div
+ul>li*4
+div.title
+div.content
+
+블록은 전체이기 때문에 높이랑 너비 지정할 수 있지만,
+인라인은 글자에만 표현되는 것이기 때문에 높이 너비 지정 불가.
+
+->두개를 섞는 방법은? css에서의 display!
+
+width와 height를 %로 바꿔주면 호환이 된다.->모바일에서도 보기 편하게
+: 반응형 웹
+
+그리드 기본구조
+<컨테이너>
+<item></item>
+<item></item>
+<item></item>
+</컨테이너>
+
+css로 바꿔줌
+.container
+display: flax ->그리드 시작하는 것
+
+cntrl+/ ->주석 넣기

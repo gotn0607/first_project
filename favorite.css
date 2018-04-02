@@ -1,0 +1,23 @@
+h1 {
+    background: pink;
+    width: 1500px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    border: solid pink;
+    border-radius:1em;
+}
+
+.title {
+    padding-top: auto;
+    padding-bottom: auto;
+    vertical-align: middle;
+}
+
+#Categories {
+    background: pink;
+    width: 1500px;
+    height: 50px;
+    border: solid pink;
+    border-radius:1em;
+}
